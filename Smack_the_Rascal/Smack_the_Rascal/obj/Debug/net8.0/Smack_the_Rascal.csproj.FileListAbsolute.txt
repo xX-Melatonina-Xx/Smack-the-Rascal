@@ -1,0 +1,15 @@
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\bin\Debug\net8.0\Smack_the_Rascal.exe
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\bin\Debug\net8.0\Smack_the_Rascal.deps.json
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\bin\Debug\net8.0\Smack_the_Rascal.runtimeconfig.json
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\bin\Debug\net8.0\Smack_the_Rascal.dll
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\bin\Debug\net8.0\Smack_the_Rascal.pdb
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\Smack_the_Rascal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\Smack_the_Rascal.AssemblyInfoInputs.cache
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\Smack_the_Rascal.AssemblyInfo.cs
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\Smack_the_Rascal.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\Smack_the_Rascal.sourcelink.json
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\Smack_the_Rascal.dll
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\refint\Smack_the_Rascal.dll
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\Smack_the_Rascal.pdb
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\Smack_the_Rascal.genruntimeconfig.cache
+D:\GitHub\OOP\Smack_the_Rascal\Smack_the_Rascal\obj\Debug\net8.0\ref\Smack_the_Rascal.dll
